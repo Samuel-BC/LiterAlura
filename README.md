@@ -22,7 +22,7 @@ Spring Boot 3
 
 Spring Data JPA
 
-PostgreSQL
+PostgreSQL Driver
 
 API Gutendex
 
